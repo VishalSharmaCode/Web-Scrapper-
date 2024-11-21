@@ -1,0 +1,30 @@
+To Run this Assignment follow the following steps:
+	1. Install the following packages in python:
+		A. pip install langchain-ollama
+		B. pip install langchain
+		C. pip install streamlit
+		D. pip install selenium
+		E. pip install lxml  
+		F. pip install beautifulsoup4
+		G. pip install html5lib
+
+	2. Download and install the Chrome driver 
+		Chrome Driver:- https://googlechromelabs.github.io/chrome-for-testing/#stable
+	
+	3. Install the Olama.exe given in the zip file.
+
+	4. Install LLM model using following command in cmd prompt 
+		ollama pull llama3 
+
+	5. Run the main.py file using terminal using 
+		streamlit run main.py
+
+User interaction with assignment
+
+	1. Give the URL in text field.
+	2. Click on Scrape site.
+	3. Describe what you want to Know form the website.
+	4. Click on the parse content.
+
+
+Thank you!!
